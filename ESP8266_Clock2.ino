@@ -48,8 +48,8 @@ DHT dht(DHTPIN, DHTTYPE, 15); // 15 was found on a website for fast processor
 int temp, hum; //
 
 // Wifi
-const char* ssid     = "Airtel_9879391986";     // SSID of local network
-const char* password = "air54614";   // Password on network
+const char* ssid     = "************";     // SSID of local network
+const char* password = "**********";   // Password on network
 float utcOffset = 5.5; // Time Zone setting
 
 void setup()
